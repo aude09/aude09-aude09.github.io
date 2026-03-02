@@ -15,6 +15,14 @@ The goal was to combine digital electronics and interactive design to create an 
 
 ---
 
+## Images / captures
+![Image du projet](../assets/images/projet1.png)
+
+## Lien / Vidéo
+[Voir le projet](https://lien-vers-le-projet-ou-video)
+
+---
+
 ## Objectives
 - Stimulate attention and reaction time  
 - Improve hand–eye coordination  
