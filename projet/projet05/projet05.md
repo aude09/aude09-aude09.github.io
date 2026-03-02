@@ -16,7 +16,7 @@ The goal was to combine digital electronics and interactive design to create an 
 ---
 
 ## Images / captures
-![Image du projet](assets/projet05/light.jpeg)
+![Image du projet](/assets/projet05/light.jpeg)
 
 ## Lien / Vidéo
 [Voir le projet](https://lien-vers-le-projet-ou-video)
