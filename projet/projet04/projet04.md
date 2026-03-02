@@ -16,6 +16,14 @@ The project integrates biomedical sensors, microcontroller programming, and mech
 
 ---
 
+## Images / captures
+![Image du projet](../assets/images/projet1.png)
+
+## Lien / Vidéo
+[Voir le projet](https://lien-vers-le-projet-ou-video)
+
+---
+
 ## System Architecture
 
 The device combines:
