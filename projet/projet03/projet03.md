@@ -18,6 +18,9 @@ This project was developed for educational and research purposes and is not inte
 
 ---
 
+## Lien / Vidéo
+[Voir le projet](https://drive.google.com/drive/folders/14e4bxlKKIBEAJtASPwHpaaSpwTGubmtp?usp=drive_link)
+
 ## Dataset
 
 The MRI data were obtained from the Alzheimer's Disease Neuroimaging Initiative (ADNI) database.
