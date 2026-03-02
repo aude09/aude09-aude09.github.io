@@ -1,14 +1,13 @@
-# Nom du projet
-**Année :** 2025  
-**Catégorie :** IA / Robotique / Biomecanique / VR  
+# 3D design of a sand-glass machine 
+**Année :** july 2025  
+**Catégorie :** modeling  
 
 ## Description
-Courte description du projet, objectif et résultat.
+This project involves designing and modeling a machine capable of transforming glass into reusable sand.  
+The goal is to propose a sustainable solution for recycling glass waste, combining mechanical modeling and process analysis. 
 
-## Technologies & outils utilisés
-- Python (PyTorch, OpenCV)
-- Arduino, capteurs biomédicaux
-- SolidWorks, Blender
+## Technologies & Tools Used
+- **Logiciels 3D :** SolidWorks
 
 ## Images / captures
 ![Image du projet](../assets/images/projet1.png)
