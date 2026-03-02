@@ -10,7 +10,7 @@ The goal is to propose a sustainable solution for recycling glass waste, combini
 - **Logiciels 3D :** SolidWorks
 
 ## Images / captures
-![Image du projet](../assets/images/projet1.png)
+![Image du projet](site/assets/projet01/final image project01.png)
 
 ## Lien / Vidéo
 [Voir le projet](https://lien-vers-le-projet-ou-video)
