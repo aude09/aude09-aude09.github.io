@@ -1,0 +1,56 @@
+  English (en)        Afrikaans (af) Albanian (sq) Amharic (am) Arabic (ar)  \
+0        aback  uit die veld geslaan         prapa         ተጭኗል  الى الوراء   
+1       abacus                abakus     numërator       abacus   طبلية تاج   
+2      abandon               verlaat       braktis           ውጣ        تخلى   
+3    abandoned               verlate     braktisur         ተትቷል       مهجور   
+4  abandonment             verlating     braktisje         ማቋረጥ   التخلي عن   
+5        abate                bedaar    i jap fund          አጥፋ       انحسر   
+6    abatement          vermindering       pakësim        መበስበስ      انحسار   
+7         abba                  Abba          Abba         abba         أبا   
+8        abbot                   abt          abat          አቡኝ  رئيس الدير   
+9   abbreviate                afkort      shkurtoj        አህጽሮት       اختصر   
+
+      Armenian (hy) Azeerbaijani (az)     Basque (eu) Belarusian (be)  \
+0            շեղում             sanki           aback           ззаду   
+1  անբավարարություն            abacus           abako           абака   
+2              լքել           tərk et   bertan behera    адмовіцца ад   
+3             լքված         tərk etdi  abandonatutako        закінуты   
+4       հրաժարվելով              ləğv        abandono       пакіданне   
+5            քանդել          boşaltın           abate         сціхаць   
+6         նվազեցում       azaldılması      murrizteko        зніжэнне   
+7              abba              abba            abba            авва   
+8             աբբոթ             abbot           abade            абат   
+9           կրճատել         qısaltmaq         laburtu       скарачаць   
+
+       Bengali (bn)  ... Positive Negative Anger Anticipation Disgust Fear  \
+0           পশ্চাতে  ...        0        0     0            0       0    0   
+1  গণনা-যন্ত্রবিশেষ  ...        0        0     0            0       0    0   
+2        বর্জিত করা  ...        0        1     0            0       0    1   
+3         পরিত্যক্ত  ...        0        1     1            0       0    1   
+4           বিসর্জন  ...        0        1     1            0       0    1   
+5         ক্ষীণ করা  ...        0        0     0            0       0    0   
+6              উপশম  ...        0        0     0            0       0    0   
+7              Abba  ...        1        0     0            0       0    0   
+8         মঠাধ্যক্ষ  ...        0        0     0            0       0    0   
+9           খাট করা  ...        0        0     0            0       0    0   
+
+  Joy Sadness Surprise Trust  
+0   0       0        0     0  
+1   0       0        0     1  
+2   0       1        0     0  
+3   0       1        0     0  
+4   0       1        1     0  
+5   0       0        0     0  
+6   0       0        0     0  
+7   0       0        0     0  
+8   0       0        0     1  
+9   0       0        0     0  
+
+[10 rows x 115 columns]
+Index(['English (en)', 'Afrikaans (af)', 'Albanian (sq)', 'Amharic (am)',
+       'Arabic (ar)', 'Armenian (hy)', 'Azeerbaijani (az)', 'Basque (eu)',
+       'Belarusian (be)', 'Bengali (bn)',
+       ...
+       'Positive', 'Negative', 'Anger', 'Anticipation', 'Disgust', 'Fear',
+       'Joy', 'Sadness', 'Surprise', 'Trust'],
+      dtype='object', length=115)
