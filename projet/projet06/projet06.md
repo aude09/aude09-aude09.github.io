@@ -12,6 +12,14 @@ The study explores how electromyographic (EMG) signals can enhance the personali
 
 ---
 
+## Images / captures
+![Image du projet](../assets/images/projet1.png)
+
+## Lien / Vidéo
+[Voir le projet](https://lien-vers-le-projet-ou-video)
+
+---
+
 ## Scientific Background
 
 Musculoskeletal modeling aims to estimate:
