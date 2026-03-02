@@ -1,78 +1,75 @@
-# Embedded System for Autonomous Assistance
-**Period:** February 2025 – March 2025  
-**Category:** Embedded Systems / Biomedical Engineering / Assistive Technology  
-**Status:** Prototype Development  
+# Interactive Light Show for Cognitive Stimulation
+**Period:** June 2023 – July 2023  
+**Affiliation:** Université Polytechnique de l’Ouest Africain  
+**Category:** Embedded Systems / Digital Electronics / Therapeutic Technology  
+**Status:** Functional Prototype  
 
 ## Project Overview
-This project focuses on the development of an embedded device designed to support individuals with neurodegenerative disorders, such as Alzheimer's disease, in order to enhance their autonomy in daily life.
+This project involved the development of an interactive LED and push-button system inspired by the classic “whack-a-mole” game.
 
-The system aims to:
-- Improve patient independence
-- Monitor physiological and movement data
-- Provide real-time assistance and alerts
-- Facilitate structured data collection for medical research
+The system generates random or programmed light sequences that users must respond to by pressing corresponding buttons.
 
-The project integrates biomedical sensors, microcontroller programming, and mechanical design into a compact assistive solution.
+It was designed as a playful and therapeutic tool aimed at supporting the rehabilitation and cognitive/motor stimulation of children (aged 4–10) with attention disorders.
+
+The goal was to combine digital electronics and interactive design to create an engaging therapeutic experience.
 
 ---
 
-## System Architecture
-
-The device combines:
-
-- A microcontroller-based system
-- Biomedical sensors for physiological monitoring
-- Motion detection components
-- A structured housing designed using CAD tools
-
-The system is designed to operate autonomously while remaining energy-efficient and wearable.
+## Objectives
+- Stimulate attention and reaction time  
+- Improve hand–eye coordination  
+- Encourage cognitive engagement in a playful environment  
+- Provide adjustable difficulty levels  
 
 ---
 
-## Key Functionalities
-
-- Monitoring of physiological signals  
-- Detection of abnormal events (e.g., stress indicators or sudden movement changes)  
-- Assistance logic implementation  
-- Data logging for research analysis  
-- Potential connectivity for caregiver notification  
-
----
-
-## Technical Implementation
+## System Design
 
 ### 1. Hardware
-- Microcontroller platform (Arduino-based)
-- Sensor integration
-- Circuit prototyping and testing
+- Microcontroller-based control system (Arduino)
+- LED matrix / discrete LEDs
+- Push-button inputs
+- Structured electrical wiring and soldered connections
 
-### 2. Software
-- Embedded C programming
-- Real-time data acquisition
-- Conditional logic for event detection
+### 2. Software Logic
+- Random sequence generation
+- Programmed sequence mode
+- Reaction time tracking
+- Difficulty adjustment through timing parameters
 
-### 3. Mechanical Design
-- 3D modeling of device enclosure
-- Ergonomic considerations
-- Prototype housing design using CAD
+### 3. Prototyping
+- Circuit design and testing
+- Manual soldering and assembly
+- Iterative improvements based on usability
 
 ---
 
-## Technologies & Tools
-- Arduino IDE
-- C Programming Language
-- SOLIDWORKS
-- Basic circuit prototyping
+## Technologies & Skills
+- Arduino IDE  
+- C Programming (embedded logic)  
+- Electrical Wiring  
+- Soldering  
+- Prototyping  
+- Digital Electronics  
+
+---
+
+## Impact
+This project demonstrates the integration of:
+- Embedded programming  
+- Electronic system design  
+- Human-centered design principles  
+- Application of engineering in therapeutic contexts  
 
 ---
 
 ## Future Improvements
-- Integration of wireless communication (WiFi/Bluetooth)
-- Miniaturization of hardware
-- Enhanced AI-based decision support
-- Long-term clinical data validation
+- Data logging for performance tracking  
+- Wireless connectivity for therapist monitoring  
+- Integration of sound feedback  
+- More advanced gamification features  
 
 ---
 
 ## Disclaimer
-This project was developed for research and educational purposes and is not intended as a certified medical device.
+This project was developed as an educational prototype and is not a certified medical device.
