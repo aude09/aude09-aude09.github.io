@@ -59,4 +59,4 @@ Depending on hardware specifications, feature extraction and model training may 
 
 ## Visualizations
 ![Spectrogram Example](/assets/projet02/spectrogramme_img.png)
-![Training Performance Curve](../assets/images/training_curve.png)
+![Training Performance Curve](/assets/projet02/training_img.png)
