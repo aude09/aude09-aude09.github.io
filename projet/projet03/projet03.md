@@ -1,109 +1,87 @@
-# Alzheimer MRI Classification using 3D Deep Learning
-**Year:** 2025  
-**Category:** Medical AI / Deep Learning / Neuroimaging  
-**Status:** Research Project – Stable Experimental Version  
+# Automated Prostate Segmentation in MRI Using Deep Learning
+
+**Category:** Medical Imaging / Artificial Intelligence / Radiology  
+**Context:** Internship Project  
+**Status:** Research & Development  
+
+---
 
 ## Project Overview
-This project focuses on the classification of Alzheimer’s disease stages using 3D brain MRI data and deep learning techniques.
 
-The objective is to automatically classify patients into three clinical categories:
+This project focused on the automation of prostate segmentation in MRI scans using deep learning techniques.
 
-- Cognitively Normal (CN)
-- Mild Cognitive Impairment (MCI)
-- Alzheimer’s Disease (AD)
+The prostate is a small yet clinically critical organ involved in reproductive and hormonal functions. With aging, conditions such as benign prostatic hyperplasia, prostatitis, and prostate cancer become increasingly prevalent, making accurate monitoring essential.
 
-A 3D Convolutional Neural Network (CNN) is trained on preprocessed MRI volumes to learn spatial brain patterns associated with disease progression.
+However, prostate analysis remains challenging due to:
 
-This project was developed for educational and research purposes and is not intended for clinical use.
+- Small anatomical size  
+- High inter-patient shape variability  
+- Deep pelvic location  
+- Subtle MRI contrast between healthy and pathological tissue  
+
+Manual segmentation is time-consuming, technically demanding, and highly dependent on radiologist expertise.
+
+The objective of this project was to explore AI-based solutions to assist and accelerate the segmentation process.
 
 ---
 
 ## Lien / Vidéo
 [Voir le projet](https://drive.google.com/drive/folders/14e4bxlKKIBEAJtASPwHpaaSpwTGubmtp?usp=drive_link)
 
-## Dataset
+---
 
-The MRI data were obtained from the Alzheimer's Disease Neuroimaging Initiative (ADNI) database.
+## Technical Challenges
 
-For this project, 3T MRI scans from **ADNI1: Complete 3Y 3T** were used to ensure higher spatial resolution and longer longitudinal consistency.
+Throughout the project, several technical and practical challenges were encountered:
 
-Access the dataset here:
-https://adni.loni.usc.edu/data-samples/adni-data/neuroimaging/mri/mri-image-data-sets/
-
-To download the data:
-1. Create an ADNI account.
-2. Follow the official data access instructions.
-3. Ensure sufficient storage capacity before downloading (MRI volumes are large).
+- Selection of appropriate deep learning frameworks  
+- Hardware and computational constraints  
+- Dataset preparation and annotation consistency  
+- Model generalization across patients  
+- Integration feasibility into real clinical workflows  
+- Regulatory and technical requirements for deployment in medical imaging systems  
 
 ---
 
-## Methodology
+## Methodological Approach
 
-### 1. Data Preparation
-- Loading MRI volumes in NIfTI format
-- Matching MRI scans with clinical metadata
-- Label encoding (CN = 0, MCI = 1, AD = 2)
+Although specific implementation details remain confidential, the project involved:
 
-### 2. Preprocessing
-- Intensity normalization
-- Resizing / spatial alignment
-- Optional skull stripping (if applied)
-- Conversion to tensor format
-
-### 3. Dataset Construction
-- Custom PyTorch Dataset class
-- Efficient 3D data loading pipeline
-
-### 4. Model Development
-- 3D Convolutional Neural Network (CNN)
-- Training with cross-entropy loss
-- Performance monitoring across epochs
-
-### 5. Evaluation
-- Classification accuracy
-- Confusion matrix
-- Overfitting monitoring
+- MRI data preprocessing  
+- Image normalization  
+- Development and testing of deep neural network architectures  
+- Performance evaluation using segmentation metrics  
+- Consideration of clinical integration constraints  
 
 ---
 
-## Technologies & Tools
-- Python
-- PyTorch
-- NumPy
-- Pandas
-- Scikit-learn
-- NiBabel
-- SciPy
-- Jupyter Notebook / VS Code
+## Key Learnings
+
+This internship highlighted the importance of:
+
+- Robust computational infrastructure  
+- Careful neural network architecture design  
+- Clinical validation processes  
+- Regulatory compliance in medical AI systems  
+- Practical feasibility in hospital environments  
+
+It reinforced the complexity of translating AI research into real-world medical applications.
 
 ---
 
-## Execution Time
-Due to the size of 3D MRI volumes and the computational cost of 3D CNNs, preprocessing and training may take several hours depending on hardware resources (CPU vs GPU).
+## Impact & Perspective
 
-GPU acceleration is strongly recommended.
+Automating prostate segmentation has the potential to:
 
----
+- Reduce radiologist workload  
+- Improve reproducibility  
+- Enhance diagnostic efficiency  
+- Support early detection and monitoring  
 
-## Future Improvements
-- Data augmentation for 3D volumes
-- Transfer learning with medical pretrained models
-- Cross-validation on larger subsets
-- Integration with clinical feature prediction
-- Model explainability (Grad-CAM for 3D)
-
----
-
-## Visualizations
-![MRI Example](../assets/images/mri_sample.png)
-![Training Accuracy](../assets/images/training_curve_mri.png)
-
----
-
-## License
-MIT License
+While this project represents an exploratory step, it contributed to a deeper understanding of medical AI system development and deployment challenges.
 
 ---
 
 ## Disclaimer
-This project is for research and educational purposes only and is not intended for clinical diagnosis.
+
+This project was conducted in an internship context. Certain technical and institutional details remain confidential.
