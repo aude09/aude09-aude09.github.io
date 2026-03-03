@@ -18,8 +18,8 @@ This project was developed for educational and research purposes and is not inte
 
 ---
 
-## Lien / Vidéo
-[Voir le projet]()
+## Images / captures
+![Image du projet](/assets/projet07/adni_img.png)
 
 ## Dataset
 
