@@ -16,7 +16,7 @@ The study explores how electromyographic (EMG) signals can enhance the personali
 ![Image du projet](/assets/projet06/arm_muscle.png)
 
 ## Lien / Vidéo
-[Voir le projet](https://lien-vers-le-projet-ou-video)
+[Voir le projet](https://drive.google.com/file/d/1DaB3s4JEapIvBq7YWHz373nbHDm5IBBB/view?usp=drive_link)
 
 ---
 
