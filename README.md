@@ -80,6 +80,6 @@ Cognitive and motor stimulation device for children with attention disorders.
 
 ## Contact
 
-LinkedIn: (your link)
-Email: (your email)
-GitHub: (your GitHub link)
+[LinkedIn](https://www.linkedin.com/in/aude073/)
+Email: (ivalaaude073@gmail.com)
+[GitHub](https://github.com/aude09)
