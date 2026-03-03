@@ -24,31 +24,31 @@ I am particularly interested in developing intelligent assistive devices and dat
 
 ### 🧠 MRI-Based Alzheimer's Classification
 3D CNN classification of Alzheimer's disease stages (CN, MCI, AD) using MRI data.
-🔗 [View Project](projects/project3.md)
+🔗 [View Project](/projet/projet03/projet03.md)
 
 ---
 
 ### 🎤 Voice Emotion Recognition
 Machine learning model for detecting emotions from speech signals.
-🔗 [View Project](projects/project2.md)
+🔗 [View Project](/projet/projet02/projet02.md)
 
 ---
 
 ### 🔬 EMG-Driven Musculoskeletal Modeling
 Biomechanical simulation using EMG signals and OpenSim.
-🔗 [View Project](projects/project6.md)
+🔗 [View Project](/projet/projet06/projet06.md)
 
 ---
 
 ### 🤖 Embedded System for Autonomous Assistance
 Assistive wearable device for neurodegenerative disorders.
-🔗 [View Project](projects/project4.md)
+🔗 [View Project](/projet/projet04/projet04.md)
 
 ---
 
 ### 💡 Interactive Light Show (Therapeutic System)
 Cognitive and motor stimulation device for children with attention disorders.
-🔗 [View Project](projects/project5.md)
+🔗 [View Project](/projet/projet/projet05.md)
 
 ---
 
