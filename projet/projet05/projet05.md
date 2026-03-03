@@ -19,7 +19,7 @@ The goal was to combine digital electronics and interactive design to create an 
 ![Image du projet](/assets/projet05/light.jpeg)
 
 ## Lien / Vidéo
-[Voir le projet](https://drive.google.com/drive/folders/1tU0JhRp8qYdc_UILit8f3g-kZEy8j4Db?usp=drive_link)
+[Voir le projet](https://drive.google.com/file/d/1hystGvvNaZNGjTvW8rnFrub7EhEIqjyf/view?usp=drive_link)
 
 ---
 
