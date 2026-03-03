@@ -23,7 +23,7 @@ The vehicle is equipped with a simulated camera that can detect and avoid obstac
 - Remote-controlled interaction to test different scenarios.
 
 ## Screenshot
-![Mini Car Simulation](./mini_car_screenshot.png)
+![Mini Car Simulation](./assets/projet08/motion_robot.png)
 
 ## Results and learning
 - Mastery of camera-robot integration for autonomous navigation.  
