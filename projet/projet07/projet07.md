@@ -18,9 +18,6 @@ This project was developed for educational and research purposes and is not inte
 
 ---
 
-## Images / captures
-![Image du projet](/assets/projet07/adni_img.png)
-
 ## Dataset
 
 The MRI data were obtained from the Alzheimer's Disease Neuroimaging Initiative (ADNI) database.
@@ -95,8 +92,8 @@ GPU acceleration is strongly recommended.
 ---
 
 ## Visualizations
-![MRI Example](../assets/images/mri_sample.png)
-![Training Accuracy](../assets/images/training_curve_mri.png)
+![MRI Example](/assets/projet07/adni_img.png)
+![Training Accuracy](/assets/projet07/training_accuracy.png)
 
 ---
 
