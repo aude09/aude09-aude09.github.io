@@ -49,7 +49,7 @@ Assistive wearable device for neurodegenerative disorders.
 
 ### 💡 Interactive Light Show (Therapeutic System)
 Cognitive and motor stimulation device for children with attention disorders.
-🔗 [View Project](/projet/projet/projet05.md)
+🔗 [View Project](/projet/projet05/projet05.md)
 
 ---
 
