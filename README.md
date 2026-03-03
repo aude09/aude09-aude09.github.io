@@ -22,6 +22,12 @@ I am particularly interested in developing intelligent assistive devices and dat
 
 ## Featured Projects
 
+### ♻️ Glass-to-Sand Recycling Machine
+Design and modeling of a mechanical system capable of transforming glass waste into reusable sand material.
+🔗 [View Project](/projet/projet01/projet01.md)
+
+---
+
 ### 🎤 Voice Emotion Recognition
 Machine learning model for detecting emotions from speech signals.
 🔗 [View Project](/projet/projet02/projet02.md)
