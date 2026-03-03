@@ -58,5 +58,5 @@ Depending on hardware specifications, feature extraction and model training may 
 - Deployment as an interactive application
 
 ## Visualizations
-![Spectrogram Example](../assets/images/spectrogram.png)
+![Spectrogram Example](/assets/projet02/spectrogramme_img.png)
 ![Training Performance Curve](../assets/images/training_curve.png)
