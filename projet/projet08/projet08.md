@@ -26,7 +26,7 @@ The vehicle is equipped with a simulated camera that can detect and avoid obstac
 ![Mini Car Simulation](/assets/projet08/motion_robot.png)
 
 ## Video/link
-![video](https://drive.google.com/file/d/11h5ANzQvSWlccpOtgKJZCxlQKoaAsGQf/view?usp=drive_link)
+[video](https://drive.google.com/file/d/11h5ANzQvSWlccpOtgKJZCxlQKoaAsGQf/view?usp=drive_link)
 
 ## Results and learning
 - Mastery of camera-robot integration for autonomous navigation.  
