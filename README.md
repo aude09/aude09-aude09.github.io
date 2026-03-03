@@ -34,8 +34,9 @@ Machine learning model for detecting emotions from speech signals.
 
 ---
 
-### 🧠 MRI-Based Alzheimer's Classification
-3D CNN classification of Alzheimer's disease stages (CN, MCI, AD) using MRI data.
+### 🧬 Automated Prostate Segmentation in MRI
+Internship project focused on deep learning–based segmentation of the prostate in MRI scans.  
+Exploration of AI integration into clinical radiology workflows.
 🔗 [View Project](/projet/projet03/projet03.md)
 
 ---
