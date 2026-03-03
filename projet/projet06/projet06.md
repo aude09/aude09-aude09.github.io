@@ -1,4 +1,4 @@
-# EMG-Driven Musculoskeletal Modeling using OpenSim
+# EMG-Informed Musculoskeletal Simulation using OpenSim
 **Institution:** École Supérieure Privée d’Ingénierie et de Technologie Appliquée (ESPITA)  
 **Category:** Biomechanics / Biomedical Engineering / EMG Signal Processing  
 **Status:** Research & Simulation Study  
