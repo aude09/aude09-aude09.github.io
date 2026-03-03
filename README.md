@@ -59,6 +59,12 @@ Biomechanical simulation using EMG signals and OpenSim.
 
 ---
 
+### 🧠 MRI-Based Alzheimer's Classification
+3D CNN classification of Alzheimer's disease stages (CN, MCI, AD) using MRI data.
+🔗 [View Project](/projet/projet07/projet07.md)
+
+---
+
 ## Technical Skills
 
 ### Programming & AI
