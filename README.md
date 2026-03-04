@@ -53,7 +53,7 @@ Cognitive and motor stimulation device for children with attention disorders.
 
 ---
 
-### 🔬 EMG-Driven Musculoskeletal Modeling
+### 🔬 EMG-Informed Musculoskeletal Simulation using OpenSim
 Biomechanical simulation using EMG signals and OpenSim.
 🔗 [View Project](/projet/projet06/projet06.md)
 
