@@ -5,9 +5,7 @@
 
 ## Project Overview
 This project focuses on the development of a musculoskeletal model integrating EMG signals to estimate muscle forces and activations using OpenSim.
-
 The objective was to investigate muscle force control through EMG-informed simulations and compare computational estimations with experimental data.
-
 The study explores how electromyographic (EMG) signals can enhance the personalization and accuracy of musculoskeletal simulations.
 
 ---
